@@ -1,0 +1,16 @@
+{
+    "name": "buuramdy/buuramdymvc",
+    "description": "BuuramdyMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "buuramdyframework",
+            "email": "mn.simplon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
